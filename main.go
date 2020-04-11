@@ -18,5 +18,5 @@ package main
 import "github.com/bevisy/imageTool/cmd"
 
 func main() {
-  cmd.Execute()
+	cmd.Execute()
 }
