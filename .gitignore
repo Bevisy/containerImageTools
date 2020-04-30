@@ -16,3 +16,6 @@ vendor/
 
 # goland support
 .idea/
+
+# sample
+sample/
